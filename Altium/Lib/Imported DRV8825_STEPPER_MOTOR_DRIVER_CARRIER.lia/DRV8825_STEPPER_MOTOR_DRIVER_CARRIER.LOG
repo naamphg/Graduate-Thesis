@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.LibPkg
+
+Section : C:\Users\naamp\Desktop\DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.lia
+    Section : PCB Library - DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DRV8825_STEPPER_MOTOR_DRIVER_CARRIER On Line 147
+            Warning - 1 : Skipping Token attachedSymbol On Line 334
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 129
+            Warning - 1 : Skipping Token layerContents On Line 138
+        EndSection
+
+        Section : Generating SCH Library - DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.SchLib
+        EndSection
+    EndSection
+EndSection
